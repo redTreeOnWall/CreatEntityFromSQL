@@ -1,0 +1,23 @@
+{
+  "name": "createntityfromsql",
+  "version": "1.0.0",
+  "description": "CreatEntityFromSQL",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/redTreeOnWall/CreatEntityFromSQL.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/redTreeOnWall/CreatEntityFromSQL/issues"
+  },
+  "homepage": "https://github.com/redTreeOnWall/CreatEntityFromSQL#readme",
+  "dependencies": {
+    "@types/mysql": "^2.15.4",
+    "mysql": "^2.15.0"
+  }
+}
